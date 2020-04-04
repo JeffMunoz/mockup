@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="mockup:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/mockup_jar</output-path>
+    <root id="archive" name="mockup.jar">
+      <element id="module-output" name="mockup" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/res/h2-1.4.199.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
