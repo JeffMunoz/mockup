@@ -1,2 +1,2 @@
 ## Demonstration
- ![Alt text](https://raw.githubusercontent.com/JeffMunoz/mockup/master/prototype.mp4) 
+ ![Click here for a video demo](https://raw.githubusercontent.com/JeffMunoz/mockup/master/prototype.mp4) 
